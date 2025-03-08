@@ -3,7 +3,7 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 # Visitor count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green)
+<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=red&style=flat-square" alt="Visitor Count"/>
 
 ## BIO
 
@@ -24,6 +24,7 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
   ![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge)
   ![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge)
+
 
 
 ## 🛠 Mening texnologiyalarim:
