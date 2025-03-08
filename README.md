@@ -1,12 +1,6 @@
 # 👋 Assalomu alaykum, men Elnurbek!
 Laravel va PHP dasturchisiman. 👨‍💻
 
-<p align="center"> 
-  <b>Visitor count</b> <br>
-  <img src="https://img.shields.io/badge/Visitor%20Count-06820-red?style=for-the-badge&labelColor=black" />
-</p>
-
-
 
 ## BIO
 
@@ -42,6 +36,13 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 ### 📌 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby)
+
+
+<p align="center">
+  <b>Visitor count</b> <br>
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourRepo/main/visitor-counter.svg" />
+</p>
+
 
 
 ## 📫 Mening kontaktlarim:
