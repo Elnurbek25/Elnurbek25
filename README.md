@@ -38,11 +38,11 @@ Laravel va PHP dasturchisiman. 👨‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby)
 
 
-# Visitor count
-
-<p align="center">
-  <img src="https://your-custom-counter.com/counter.svg?color=red&bgcolor=black&style=digital" alt="Visitor Counter"/>
+<p align="center"> 
+  <b>Visitor count</b> <br>
+  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" />
 </p>
+
 
 
 
