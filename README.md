@@ -40,7 +40,10 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 # Visitor count
 
-<img src="https://komarev.com/ghpvc/?Elnurbek25=Elnurbek25&color=red&style=flat-square" alt="Visitor Count"/>
+<p align="center">
+  <img src="https://your-custom-counter.com/counter.svg?color=red&bgcolor=black&style=digital" alt="Visitor Counter"/>
+</p>
+
 
 
 ## 📫 Mening kontaktlarim:
