@@ -37,9 +37,10 @@ Laravel va PHP dasturchisiman. 👨‍💻
 ### 📌 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?Elnurbek25=Elnurbek25&color=red&style=for-the-badge" alt="Visitor Count"/>
-</p>
+
+# Visitor count
+
+<img src="https://komarev.com/ghpvc/?Elnurbek25=Elnurbek25&color=red&style=flat-square" alt="Visitor Count"/>
 
 
 ## 📫 Mening kontaktlarim:
