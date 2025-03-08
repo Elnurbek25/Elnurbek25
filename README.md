@@ -1,6 +1,9 @@
 # 👋 Assalomu alaykum, men Elnurbek!
 Laravel va PHP dasturchisiman. 👨‍💻
-
+## 🛠 Mening texnologiyalarim:
+- PHP, Laravel
+- MySQL, SQLite
+- REST API, CRUD
 
 ## BIO
 
@@ -22,12 +25,6 @@ Laravel va PHP dasturchisiman. 👨‍💻
   ![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge)
   ![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge)
 
-
-
-## 🛠 Mening texnologiyalarim:
-- PHP, Laravel
-- MySQL, SQLite
-- REST API, CRUD
 
 
 
