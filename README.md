@@ -3,8 +3,9 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 <p align="center"> 
   <b>Visitor count</b> <br>
-  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" />
+  <img src="https://img.shields.io/badge/Visitor%20Count-06820-red?style=for-the-badge&labelColor=black" />
 </p>
+
 
 
 ## BIO
