@@ -38,10 +38,51 @@ Laravel va PHP dasturchisiman. 👨‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby)
 
 
-<p align="center">
-  <b>Visitor count</b> <br>
-  <img src="assets/visitor-count.svg" width="220">
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Count</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .counter {
+            display: flex;
+            justify-content: center;
+            gap: 5px;
+            margin-top: 10px;
+        }
+        .digit {
+            width: 50px;
+            height: 50px;
+            background-color: black;
+            color: red;
+            font-size: 30px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Visitor count</h2>
+    <div class="counter">
+        <div class="digit">0</div>
+        <div class="digit">0</div>
+        <div class="digit">2</div>
+        <div class="digit">0</div>
+        <div class="digit">0</div>
+        <div class="digit">5</div>
+    </div>
+
+</body>
+</html>
 
 
 
