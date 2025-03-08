@@ -1,9 +1,11 @@
 # 👋 Assalomu alaykum, men Elnurbek!
 Laravel va PHP dasturchisiman. 👨‍💻
 
-# Visitor count
+<p align="center"> 
+  <b>Visitor count</b> <br>
+  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=red&style=flat-square" alt="Visitor Count"/>
 
 ## BIO
 
