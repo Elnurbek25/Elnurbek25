@@ -2,7 +2,6 @@
 Laravel va PHP dasturchisiman. 👨‍💻
 ## 🛠 Mening texnologiyalarim:
 - PHP, Laravel
-- MySQL, SQLite
 - REST API, CRUD
 
 ## BIO
