@@ -37,7 +37,7 @@ Laravel va PHP dasturchisiman. 👨‍💻
 ### 📌 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby)
 
-## 📊 Mening Statistikalrim
+## 📊 Mening Statistikalrim                           📌 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
 
 <table>
   <tr>
