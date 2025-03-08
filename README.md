@@ -40,7 +40,7 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 <p align="center">
   <b>Visitor count</b> <br>
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourRepo/main/visitor-counter.svg" />
+  <img src="https://raw.githubusercontent.com/Elnurbek25/YourRepo/main/visitor-counter.svg" />
 </p>
 
 
