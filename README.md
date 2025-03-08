@@ -40,21 +40,9 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 <p align="center">
   <b>Visitor count</b> <br>
-  <svg xmlns="http://www.w3.org/2000/svg" width="220" height="50">
-    <rect x="10" y="10" width="30" height="30" fill="black"/>
-    <rect x="50" y="10" width="30" height="30" fill="black"/>
-    <rect x="90" y="10" width="30" height="30" fill="black"/>
-    <rect x="130" y="10" width="30" height="30" fill="black"/>
-    <rect x="170" y="10" width="30" height="30" fill="black"/>
-    <rect x="210" y="10" width="30" height="30" fill="black"/>
-    <text x="25" y="32" font-size="20" fill="red" text-anchor="middle">0</text>
-    <text x="65" y="32" font-size="20" fill="red" text-anchor="middle">0</text>
-    <text x="105" y="32" font-size="20" fill="red" text-anchor="middle">2</text>
-    <text x="145" y="32" font-size="20" fill="red" text-anchor="middle">0</text>
-    <text x="185" y="32" font-size="20" fill="red" text-anchor="middle">0</text>
-    <text x="225" y="32" font-size="20" fill="red" text-anchor="middle">5</text>
-  </svg>
+  <img src="assets/visitor-count.svg" width="220">
 </p>
+
 
 
 
