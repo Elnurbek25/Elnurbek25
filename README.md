@@ -45,6 +45,7 @@ Laravel va PHP dasturchisiman. 👨‍💻
       <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical" />
     </td>
     <td>
+      📌 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby" />
     </td>
   </tr>
