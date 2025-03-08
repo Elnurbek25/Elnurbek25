@@ -40,8 +40,21 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 <p align="center">
   <b>Visitor count</b> <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Elnurbek25.Elnurbek" alt="visitor badge"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
+    <rect x="10" y="10" width="30" height="30" fill="black" />
+    <rect x="50" y="10" width="30" height="30" fill="black" />
+    <rect x="90" y="10" width="30" height="30" fill="black" />
+    <rect x="130" y="10" width="30" height="30" fill="black" />
+    <rect x="170" y="10" width="30" height="30" fill="black" />
+    <text x="25" y="30" font-size="20" fill="red">0</text>
+    <text x="65" y="30" font-size="20" fill="red">0</text>
+    <text x="105" y="30" font-size="20" fill="red">2</text>
+    <text x="145" y="30" font-size="20" fill="red">0</text>
+    <text x="185" y="30" font-size="20" fill="red">0</text>
+    <text x="225" y="30" font-size="20" fill="red">5</text>
+  </svg>
 </p>
+
 
 
 
