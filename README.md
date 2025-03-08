@@ -32,7 +32,8 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 ## 📊 Mening Statistikalrim
 
-![Elnurbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical)
+![Elnurbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical)  ### 📌 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby)
 
 ### 📌 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby)
