@@ -40,8 +40,9 @@ Laravel va PHP dasturchisiman. 👨‍💻
 
 <p align="center">
   <b>Visitor count</b> <br>
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourRepo/main/your-image.png" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Elnurbek25.Elnurbek" alt="visitor badge"/>
 </p>
+
 
 
 
