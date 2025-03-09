@@ -1,22 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/php.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/laravel.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/js.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/html.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/css.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/git.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/github.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/vscode.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/gcp.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/icloud.svg" width="50px">
-</p>
-
-
-
-
-
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;💻+Laravel+Developer+from+Uzbekistan!" alt="Typing SVG" />
