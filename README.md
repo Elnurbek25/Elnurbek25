@@ -1,3 +1,8 @@
+## 📝 Blog Posts  
+- [🔗 How to optimize Laravel performance](https://medium.com/@elnurbek25/laravel-performance)  
+- [🔗 Best practices for REST API development](https://dev.to/elnurbek25/rest-api-best-practices)  
+
+
 
 # 👋 Hello, I'm Elnurbek!  
 Laravel and PHP Developer 👨‍💻 
