@@ -1,9 +1,8 @@
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50px">
-<img src="https://media.giphy.com/media/Sv8oHh80XxF68hKf2D/giphy.gif" width="50px">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;💻+Laravel+Developer+from+Uzbekistan!" alt="Typing SVG" />
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elnurbek25&theme=radical&hide_border=true)
+
 <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="50px">
 <p align="center">
   <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="50px">
