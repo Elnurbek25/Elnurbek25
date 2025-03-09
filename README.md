@@ -35,15 +35,9 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 - 🏫 I graduated from **Myself**
 - 🛠 Technologies and tools:
 
-  ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge)
-  ![Laravel](https://img.shields.io/badge/-LARAVEL-red?style=for-the-badge)
-  ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge)
-  ![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge)
-  ![VS Code](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge)
-  ![Google Cloud](https://img.shields.io/badge/-GOOGLE%20CLOUD-4285F4?style=for-the-badge)
-  ![iCloud](https://img.shields.io/badge/-iCLOUD-3693F3?style=for-the-badge)
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,vscode,gcp,icloud" />
+  </div>
 
 - 🗄 Databases:
 
