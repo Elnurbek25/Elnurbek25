@@ -1,17 +1,10 @@
 
-
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;Laravel+and+PHP+Developer+👨‍💻" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="200"/>
 </p>
-
- 
 
 ## 🤓 Fun Fact  
 <p align="left">
@@ -57,13 +50,8 @@
   <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
 </p>
 
-
-
-
-
 ### 📫 Contact Me  
 
   <a href="mailto:elnurbek.pubgmobile@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://t.me/Elnurbek"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48"/></a>
   <a href="https://www.instagram.com/elnurbek_025"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-
