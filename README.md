@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=laravel" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=js" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=html" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=css" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=git" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=github" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=gcp" width="50px" style="animation: rotate 3s linear infinite;">
-  <img src="https://skillicons.dev/icons?i=icloud" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/php.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/laravel.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/js.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/html.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/css.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/git.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/github.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/vscode.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/gcp.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/Elnurbek25/Elnurbek25/main/animated-icons/icloud.svg" width="50px">
 </p>
+
 
 
 
