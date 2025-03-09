@@ -1,8 +1,4 @@
-### 🌟 GitHub Stars  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-025-F7DF1E?style=flat&logo=github&logoColor=white&labelColor=black&color=F7DF1E" alt="GitHub Stars" height="40" />
-</p>
+>
 
 
 
@@ -50,7 +46,7 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 </table>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/GitHub_Stars-025-yellow?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-025-F7DF1E?style=flat&logo=github&logoColor=white&labelColor=black&color=F7DF1E" alt="GitHub Stars" height="40" />  
 </p>
 
 <p align="center"> 
