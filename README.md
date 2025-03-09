@@ -1,17 +1,8 @@
 <p align="center">
-  <img class="animated-icon" src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,vscode,gcp,icloud" />
+  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50px">
 </p>
 
-<style>
-  .animated-icon {
-    animation: bounce 2s infinite;
-  }
-
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-5px); }
-  }
-</style>
 
 
 
