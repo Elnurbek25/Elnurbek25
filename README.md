@@ -1,6 +1,6 @@
 <p align="center">
   <img class="rotate-icons" src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,vscode,gcp,icloud" width="500px">
-</p>
+
 <style>
   .rotate-icons {
     animation: rotate 4s linear infinite;
@@ -11,7 +11,7 @@
     to { transform: rotate(360deg); }
   }
 </style>
-
+</p>
 
 
 
