@@ -50,6 +50,12 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
   <b>Visitor count</b> <br>
   <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" />
 </p>
+### 🕵️‍♂️ Visitor Count  
+
+<p align="left">
+  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
+</p>
+
 
 ### 📫 Contact Me  
 
