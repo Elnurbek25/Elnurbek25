@@ -1,5 +1,12 @@
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=435&lines=Did+you+know?+I+love+solving+coding+challenges+and+debugging+is+my+superpower!+🔥" alt="Typing SVG" />
+</p>
+
+
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;Laravel+and+PHP+Developer+👨‍💻" alt="Typing SVG" />
 </p>
 <p align="center">
