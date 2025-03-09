@@ -43,11 +43,9 @@ Did you know? I love solving coding challenges and debugging is my superpower! ð
 <table>
   <tr>
     <td>
-      GitHub Followers:
       <img src="https://img.shields.io/github/followers/Elnurbek25?style=for-the-badge"/>
     </td>
     <td>
-     GitHub Stars:
       <img src="https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge" />
     </td>
   </tr>
