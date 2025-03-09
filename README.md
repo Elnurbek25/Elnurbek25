@@ -1,15 +1,8 @@
-### 🕵️‍♂️ Visitor Count  
+
+### 🌟 GitHub Stars  
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" alt="Visitor Count" width="200" height="50" />
-</p>
-
-### 🕵️‍♂️ Visitor Count  
-
-<p align="left">
-  <a href="https://profile-counter.glitch.me/Elnurbek25/count.svg">
-    <img src="https://custom-icon-badges.demolab.com/badge/Visitors-025-1f425f?style=for-the-badge&logo=eye&logoColor=white" alt="Visitor Count"/>
-  </a>
+  <img src="https://img.shields.io/badge/GitHub_Stars-025-yellow?style=for-the-badge&logo=star&logoColor=white" alt="GitHub Stars"/>
 </p>
 
 
@@ -57,8 +50,7 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 </table>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/GitHub_Stars-025-yellow?style=for-the-badge" />
-  
+  <img src="https://img.shields.io/badge/GitHub_Stars-025-yellow?style=for-the-badge" />  
 </p>
 
 <p align="center"> 
