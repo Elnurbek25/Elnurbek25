@@ -1,5 +1,7 @@
-## 🏆 GitHub Achievements  
-![GitHub Streak](https://streak-stats.demolab.com?user=Elnurbek25&theme=radical&hide_border=true)  
+## 🚀 Projects  
+- [🔗 My Awesome Project](https://github.com/Elnurbek25/project-name) - Short description of the project.  
+- [🔗 Another Project](https://github.com/Elnurbek25/another-project) - Another description.  
+
  
 
 
