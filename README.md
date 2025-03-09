@@ -16,7 +16,7 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 - 🏫 I graduated from **Myself**
 - 🛠 Technologies and tools:
 
-  <img src="https://skillicons.dev/icons?i=php ,laravel,js,html,css,git,github,vscode,gcp,icloud" />
+  <img src="https://skillicons.dev/icons?i=php, laravel,js,html,css,git,github,vscode,gcp,icloud" />
 
 - 🗄 Databases:
 -  
