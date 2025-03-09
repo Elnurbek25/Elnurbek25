@@ -1,3 +1,10 @@
+### 🕵️‍♂️ Visitor Count  
+
+<p align="left">
+  <a href="https://profile-counter.glitch.me/Elnurbek25/count.svg">
+    <img src="https://custom-icon-badges.demolab.com/badge/Visitors-025-blue.svg?style=for-the-badge&logo=eye&logoColor=white" alt="Visitor Count"/>
+  </a>
+</p>
 
 
 
