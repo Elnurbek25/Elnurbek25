@@ -48,16 +48,10 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 
 <p align="center"> 
   <b>Visitor count</b> <br>
-  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" />
-</p>
-### 🕵️‍♂️ Visitor Count  
-
-<p align="left">
   <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
 </p>
-### 🕵️‍♂️ Visitor Count  
 
-[![Visitor](https://img.shields.io/badge/Visitor-Count-blue?style=for-the-badge&logo=github)](https://profile-counter.glitch.me/Elnurbek25/count.svg)
+
 
 
 
