@@ -1,7 +1,3 @@
-![GitHub Followers](https://img.shields.io/github/followers/Elnurbek25?style=for-the-badge)  
-![GitHub Stars](https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge)  
-
-
 
 # 👋 Hello, I'm Elnurbek!  
 Laravel and PHP Developer 👨‍💻 
@@ -36,6 +32,19 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
     <td>
       📊 My Stats:
       <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical" />
+    </td>
+    <td>
+     📌 Most Used Programming Languages:
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      GitHub Followers:
+      <img src="https://img.shields.io/github/followers/Elnurbek25?style=for-the-badge"/>
     </td>
     <td>
      📌 Most Used Programming Languages:
