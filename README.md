@@ -1,17 +1,9 @@
-## 🚀 Projects  
-- [🔗 My Awesome Project](https://github.com/Elnurbek25/project-name) - Short description of the project.  
-- [🔗 Another Project](https://github.com/Elnurbek25/another-project) - Another description.  
-
- 
-
-
 
 # 👋 Hello, I'm Elnurbek!  
 Laravel and PHP Developer 👨‍💻 
 
 ## 🤓 Fun Fact  
 Did you know? I love solving coding challenges and debugging is my superpower! 🔥
-
 
 ## BIO
 
@@ -32,7 +24,6 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 
   ![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge)
   ![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge)
-
 
 <table>
   <tr>
@@ -66,8 +57,6 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
   <b>Visitor count</b> <br>
   <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" />
 </p>
-
-
 
 ### 📫 Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elnurbek.pubgmobile@gmail.com)
