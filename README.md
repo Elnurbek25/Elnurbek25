@@ -1,21 +1,4 @@
-### 📊 My GitHub Insights  
 
-<table>
-  <tr>  
-    <td align="center" width="33%">
-      <strong>🏆 GitHub Streak</strong><br>
-      <img src="https://streak-stats.demolab.com?user=Elnurbek25&theme=radical&hide_border=true&card_width=300" width="300"/>
-    </td>
-    <td align="center" width="33%">
-      <strong>📌 Most Used Languages</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=300" width="300"/>
-    </td>    
-    <td align="center" width="33%">
-      <strong>📊 My Stats</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical&hide_border=true&card_width=300" width="300"/>
-    </td>
-  </tr>    
-</table>
 
 
 
@@ -39,19 +22,21 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 -  
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
+### 📊 My GitHub Insights  
+
 <table>
-  <tr>    
-    <td>
-     📌 Most Used Programming Languages:
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby" />
+  <tr>  
+    <td align="center" width="33%">
+      <strong>🏆 GitHub Streak</strong><br>
+      <img src="https://streak-stats.demolab.com?user=Elnurbek25&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td>
-    <td>
-      🏆 GitHub Achievements:
-      <img src="https://streak-stats.demolab.com?user=Elnurbek25&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      📊 My Stats:
-      <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical" />
+    <td align="center" width="33%">
+      <strong>📌 Most Used Languages</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=300" width="300"/>
+    </td>    
+    <td align="center" width="33%">
+      <strong>📊 My Stats</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td>
   </tr>    
 </table>
