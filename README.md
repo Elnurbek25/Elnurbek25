@@ -42,13 +42,9 @@ Did you know? I love solving coding challenges and debugging is my superpower! ð
   </tr>    
 </table>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+<p align="center"> 
+  <img src="https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge" />
+</p>
 
 <p align="center"> 
   <b>Visitor count</b> <br>
