@@ -26,11 +26,7 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
   ![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge)
 
 <table>
-  <tr>
-    <td>
-      📊 My Stats:
-      <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical" />
-    </td>
+  <tr>    
     <td>
      📌 Most Used Programming Languages:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby" />
@@ -38,6 +34,10 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
     <td>
       🏆 GitHub Achievements:
       <img src="https://streak-stats.demolab.com?user=Elnurbek25&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      📊 My Stats:
+      <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical" />
     </td>
   </tr>    
 </table>
