@@ -1,7 +1,17 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="50px">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50px">
+  <img class="rotate-icons" src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,vscode,gcp,icloud" width="500px">
 </p>
+<style>
+  .rotate-icons {
+    animation: rotate 4s linear infinite;
+  }
+
+  @keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+</style>
+
 
 
 
