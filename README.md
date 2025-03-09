@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Elnurbek!  
+  # 👋 Hello, I'm Elnurbek!  
 # Laravel and PHP Developer 👨‍💻
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
