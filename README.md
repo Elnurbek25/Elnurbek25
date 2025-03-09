@@ -1,17 +1,16 @@
 <p align="center">
-  <img class="rotate-icons" src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,vscode,gcp,icloud" width="500px">
-
-<style>
-  .rotate-icons {
-    animation: rotate 4s linear infinite;
-  }
-
-  @keyframes rotate {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
+  <img src="https://skillicons.dev/icons?i=php" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=laravel" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=js" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=html" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=css" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=git" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=github" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=gcp" width="50px" style="animation: rotate 3s linear infinite;">
+  <img src="https://skillicons.dev/icons?i=icloud" width="50px" style="animation: rotate 3s linear infinite;">
 </p>
+
 
 
 
