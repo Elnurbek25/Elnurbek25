@@ -42,7 +42,11 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
      📌 Most Used Programming Languages:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby" />
     </td>
-  </tr>
+    <td>
+      🏆 GitHub Achievements:
+      <img src="https://streak-stats.demolab.com?user=Elnurbek25&theme=radical&hide_border=true" />
+    </td>
+  </tr>    
 </table>
 
 <table>
