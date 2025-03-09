@@ -11,8 +11,8 @@ Did you know? I love solving coding challenges and debugging is my superpower! ð
 - ðŸ›  Technologies and tools:
 
   ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge)
-  ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge)
   ![Laravel](https://img.shields.io/badge/-LARAVEL-red?style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge)
   ![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge)
