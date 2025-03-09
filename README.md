@@ -47,8 +47,8 @@ Did you know? I love solving coding challenges and debugging is my superpower! ð
       <img src="https://img.shields.io/github/followers/Elnurbek25?style=for-the-badge"/>
     </td>
     <td>
-     ðŸ“Œ Most Used Programming Languages:
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide=ruby" />
+     GitHub Stars:
+      <img src="https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge" />
     </td>
   </tr>
 </table>
