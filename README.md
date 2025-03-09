@@ -1,7 +1,3 @@
-![GitHub Stars](https://img.shields.io/badge/GitHub_Stars-025-yellow?style=for-the-badge)
-
-
-
 
 # 👋 Hello, I'm Elnurbek!  
 Laravel and PHP Developer 👨‍💻 
@@ -47,7 +43,8 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 </table>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Stars-025-yellow?style=for-the-badge" />
+  
 </p>
 
 <p align="center"> 
