@@ -1,3 +1,8 @@
+![GitHub Followers](https://img.shields.io/github/followers/Elnurbek25?style=for-the-badge)  
+![GitHub Stars](https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge)  
+
+
+
 # 👋 Hello, I'm Elnurbek!  
 Laravel and PHP Developer 👨‍💻 
 
