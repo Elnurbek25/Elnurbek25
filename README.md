@@ -1,9 +1,9 @@
-
 ### 🌟 GitHub Stars  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Stars-025-yellow?style=for-the-badge&logo=star&logoColor=white" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-025-F7DF1E?style=flat&logo=github&logoColor=white&labelColor=black&color=F7DF1E" alt="GitHub Stars" height="40" />
 </p>
+
 
 
 
