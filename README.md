@@ -12,7 +12,8 @@ Did you know? I love solving coding challenges and debugging is my superpower! �
 
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,vscode,gcp,icloud" />
 
-- 🗄 Databases: 
+- 🗄 Databases:
+-  
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 <table>
