@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;💻+Laravel+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;Laravel+and+PHP+Developer+👨‍💻" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="200"/>
