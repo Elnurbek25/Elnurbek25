@@ -1,4 +1,9 @@
 
+### 🕵️‍♂️ Visitor Count  
+
+<p align="left">
+  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" alt="Visitor Count" width="180" height="40" style="border-radius: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);"/>
+</p>
 
 
 
