@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1&size=17&pause=900&color=F75C7E&width=435&lines=Did+you+know?;I+love+solving+coding+challenges+and+debugging;Is+my+superpower!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1&size=17&pause=100&color=F75C7E&width=435&lines=Did+you+know?;I+love+solving+coding+challenges+and+debugging;Is+my+superpower!+🔥" alt="Typing SVG" />
 </p>
 
 
