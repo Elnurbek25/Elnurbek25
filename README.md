@@ -1,6 +1,6 @@
-## 📝 Blog Posts  
-- [🔗 How to optimize Laravel performance](https://medium.com/@elnurbek25/laravel-performance)  
-- [🔗 Best practices for REST API development](https://dev.to/elnurbek25/rest-api-best-practices)  
+## 🏆 GitHub Achievements  
+![GitHub Streak](https://streak-stats.demolab.com?user=Elnurbek25&theme=radical&hide_border=true)  
+ 
 
 
 
