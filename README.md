@@ -1,17 +1,7 @@
+# 👋 Hello, I'm Elnurbek!  
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </p>
-
-
-[![Elnurbek's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Elnurbek25&theme=radical)](https://github.com/Elnurbek25)
-
-
-
-
-
-
-
-
 
 # 👋 Hello, I'm Elnurbek!  
 Laravel and PHP Developer 👨‍💻 
