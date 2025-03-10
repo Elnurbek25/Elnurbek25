@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,vscode,gcp,icloud" />
 
 - 🗄 Databases:
--  
+  ### MySql - Sqlite
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 ### 📊 My GitHub Insights  
