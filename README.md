@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 ### 📊 My GitHub Insights  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elnurbek25&theme=radical&hide_border=true)
+
 
 <table>
   <tr>
@@ -34,10 +34,6 @@
     <td align="center" width="33%">
       <strong>📊 My Stats</strong><br>
       <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical&hide_border=true&card_width=300" width="300"/>
-    </td>
-    <td align="center" width="33%">
-      <strong>🏆 GitHub Streak</strong><br>
-      <img src="https://streak-stats.demolab.com?user=Elnurbek25&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td>
   </tr>    
 </table>
