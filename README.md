@@ -13,7 +13,6 @@
 
 ## BIO
 
-
 - 🏫 I graduated from **Myself**
 - 🛠 Technologies and tools:
 
@@ -24,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 ### 📊 My GitHub Insights  
+
 
 <table>
   <tr>  
