@@ -24,11 +24,10 @@
 
 ### 📊 My GitHub Insights  
 
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Elnurbek25&theme=radical)
 
 <table>
   <tr>
-    ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Elnurbek25&theme=radical)
     <td align="center" width="33%">
       <strong>📌 Most Used Languages</strong><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=300" width="300"/>
