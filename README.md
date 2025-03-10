@@ -15,7 +15,7 @@
 
 - 🏫 I graduated from **Myself**
 - 🛠 Technologies and tools:
-
+### PHP Laravel
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,vscode,gcp,icloud" />
 
 - 🗄 Databases:
