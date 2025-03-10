@@ -38,9 +38,11 @@
     </td>
     <td align="center" width="33%">
     <strong>⭐ GitHub Stars</strong><br><br>
-    <img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-2025-F7DF1E?style=flat&logo=github&logoColor=white&labelColor=blue&color=F7DF1E" 
-         alt="GitHub Stars" height="40" />
-    </td>    
+    <a href="https://github.com/Elnurbek25" target="_blank">
+        <img src="https://img.shields.io/github/stars/Elnurbek25?style=flat&logo=github&logoColor=white&label=GitHub%20Stars&labelColor=blue&color=F7DF1E" 
+             alt="GitHub Stars" height="40" />
+    </a>
+    </td> 
   </tr>    
 </table>
 
