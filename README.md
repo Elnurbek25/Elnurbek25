@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 ### 📊 My GitHub Insights  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elnurbek25&theme=radical&hide_border=true)
 
 <table>
   <tr>
