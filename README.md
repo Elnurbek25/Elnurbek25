@@ -29,15 +29,15 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <strong>📌 Most Used Languages</strong><br>
+      <strong>📌 Most Used Languages:</strong><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnurbek25&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td> 
     <td align="center" width="33%">
-      <strong>📊 My Stats</strong><br>
+      <strong>📊 My Stats:</strong><br>
       <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td>
     <td align="center" width="33%">
-    <strong>⭐ GitHub Stars</strong><br><br>
+    <strong>⭐ GitHub Stars:</strong><br><br>
     <a href="https://github.com/Elnurbek25" target="_blank">
         <img src="https://img.shields.io/github/stars/Elnurbek25?style=flat&logo=github&logoColor=white&label=GitHub%20Stars&labelColor=blue&color=F7DF1E" 
              alt="GitHub Stars" height="40" />
