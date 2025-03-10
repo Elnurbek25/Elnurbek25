@@ -36,10 +36,6 @@
       <strong>📊 My Stats</strong><br>
       <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td>
-    <td align="center" width="33%">
-      <strong>📌 Trophies</strong><br>
-      <img src="https://github-profile-trophy.vercel.app/?username=Elnurbek25&theme=radical/>
-    </td>
   </tr>    
 </table>
 
