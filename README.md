@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-2025-F7DF1E?style=flat&logo=github&logoColor=white&labelColor=blue&color=F7DF1E" alt="GitHub Stars" height="40" />  
 </p>
 
-
 <p align="center"> 
   <b>Visitor count</b> <br>
   <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
