@@ -40,9 +40,8 @@
       <strong>⭐ Stars</strong><br>
       <a href="https://github.com/Elnurbek25">
         <img src="https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
-    </a>
-    </td>
-    
+      </a>
+    </td>    
   </tr>    
 </table>
 
