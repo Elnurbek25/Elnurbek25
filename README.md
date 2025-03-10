@@ -1,14 +1,3 @@
-<p align="center">
-  <strong style="font-size: 18px;">👀 Visitor Count</strong> <br><br>
-  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" 
-       alt="Visitor Count" width="200" height="40" 
-       style="border-radius: 8px; background: white; padding: 5px;"/>
-  <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/2018_Dodge_Challenger_SRT_Demon_6.2L%2C_front_10.27.18.jpg" 
-       alt="Dodge Challenger SRT" width="400" height="250" style="border-radius: 10px;"/>
-</p>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=10&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;Laravel+and+PHP+Developer+👨‍💻" alt="Typing SVG" />
