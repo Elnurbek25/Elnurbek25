@@ -37,10 +37,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Elnurbek25&show_icons=true&theme=radical&hide_border=true&card_width=300" width="300"/>
     </td>
     <td align="center" width="33%">
-      <strong>⭐ Stars</strong><br>
-      <a href="https://github.com/Elnurbek25">
-        <img src="https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
-      </a>
+    <strong>⭐ GitHub Stars</strong><br><br>
+    <img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-2025-F7DF1E?style=flat&logo=github&logoColor=white&labelColor=blue&color=F7DF1E" 
+         alt="GitHub Stars" height="40" />
     </td>    
   </tr>    
 </table>
