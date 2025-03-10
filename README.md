@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 ### 📊 My GitHub Insights  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Elnurbek25&theme=radical)
+
 
 
 <table>
