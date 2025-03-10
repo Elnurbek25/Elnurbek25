@@ -1,23 +1,3 @@
-<p align="center">
-  <strong style="font-size: 18px;">👀 Visitor Count</strong> <br><br>
-  <img src="https://profile-counter.glitch.me/Elnurbek25/count.svg" 
-       alt="Visitor Count" width="200" height="40" 
-       style="border-radius: 8px; background: white; padding: 5px;"/>
-  <br><br>
-  <img src="https://www.motortrend.com/uploads/2023/08/2023-Dodge-Challenger-SRT-Demon-170-9.jpg" 
-       alt="Dodge Challenger SRT" width="400" height="250" style="border-radius: 10px;"/>
-</p>
-
-
-
-<img src="YOUR_IMAGE_URL_HERE" alt="Dodge Challenger SRT" width="400" height="250" style="border-radius: 10px;"/>
-
-
-
-
-
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=10&color=F75C7E&width=435&lines=👋+Hello!+I'm+Elnurbek!;Laravel+and+PHP+Developer+👨‍💻" alt="Typing SVG" />
