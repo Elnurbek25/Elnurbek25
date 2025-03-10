@@ -38,14 +38,11 @@
     </td>
     <td align="center" width="33%">
       <strong>⭐ Stars</strong><br>
-      <img src="https://img.shields.io/github/stars/Elnurbek25?style=social"/>
-    </td>
-    <td align="center" width="33%">
-      <strong>⭐ GitHub Stars</strong><br>
       <a href="https://github.com/Elnurbek25">
-        <img src="https://img.shields.io/github/stars/Elnurbek25?style=social" alt="GitHub Stars"/>
-      </a>
+        <img src="https://img.shields.io/github/stars/Elnurbek25?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+    </a>
     </td>
+    
   </tr>    
 </table>
 
