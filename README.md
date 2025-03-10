@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="33%">
       <strong>⭐ Stars</strong><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elnurbek25&theme=radical&hide_border=true"/>
+      <img src="https://img.shields.io/github/stars/Elnurbek25?style=social"/>
     </td>
   </tr>    
 </table>
