@@ -13,6 +13,7 @@
 
 ## BIO
 
+
 - 🏫 I graduated from **Myself**
 - 🛠 Technologies and tools:
 
