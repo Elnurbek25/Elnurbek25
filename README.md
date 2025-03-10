@@ -24,7 +24,6 @@
 
 ### 📊 My GitHub Insights  
 
-
 <table>
   <tr>  
     <td align="center" width="33%">
